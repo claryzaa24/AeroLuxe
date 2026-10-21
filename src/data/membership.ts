@@ -4,7 +4,7 @@ export const membershipTiers: MembershipTier[] = [
   {
     name: 'Silver',
     price: '$49',
-    period: '/tahun',
+    period: 'tahun',
     benefits: [
       'Akses lounge domestik',
       'Priority check-in',
@@ -19,7 +19,7 @@ export const membershipTiers: MembershipTier[] = [
   {
     name: 'Gold',
     price: '$149',
-    period: '/tahun',
+    period: 'tahun',
     benefits: [
       'Akses lounge global 500+',
       'Priority boarding & check-in',
@@ -37,7 +37,7 @@ export const membershipTiers: MembershipTier[] = [
   {
     name: 'Platinum',
     price: '$399',
-    period: '/tahun',
+    period: 'tahun',
     benefits: [
       'Semua benefit Gold',
       'Guaranteed upgrade ke Business Class',

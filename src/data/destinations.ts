@@ -19,11 +19,11 @@ export const destinations: Destination[] = [
     id: 2,
     name: 'Raja Ampat',
     country: 'Indonesia',
-    image: 'https://images.unsplash.com/photo-1570789210967-2cac24f169e1?w=800&q=80',
+    image: 'https://indonesiajuara.asia/wp-content/uploads/2022/07/trip-raja-ampat.webp',
     images: [
-      'https://images.unsplash.com/photo-1570789210967-2cac24f169e1?w=800&q=80',
+      'https://indonesiajuara.asia/wp-content/uploads/2022/07/trip-raja-ampat.webp',
       'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80',
-      'https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=800&q=80',
+      'https://static.vecteezy.com/system/resources/previews/079/653/138/large_2x/stunning-aerial-view-of-raja-ampat-islands-with-turquoise-waters-and-lush-greenery-photo.jpg',
     ],
     price: 149,
     currency: 'USD',
@@ -79,7 +79,7 @@ export const destinations: Destination[] = [
     images: [
       'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80',
       'https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80',
-      'https://images.unsplash.com/photo-1520939817895-060bdef471a3?w=800&q=80',
+      'https://images.unsplash.com/photo-1549144511-f099e773c147?w=800&q=80',
     ],
     price: 549,
     currency: 'USD',
@@ -106,7 +106,7 @@ export const destinations: Destination[] = [
     image: 'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800&q=80',
     images: [
       'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800&q=80',
-      'https://images.unsplash.com/photo-1565967511849-76a459747081?w=800&q=80',
+      'https://www.visitsingapore.com/content/dam/visitsingapore/neighbourhoods/marina-bay/page-image-merlion-park_756x560.jpg',
       'https://images.unsplash.com/photo-1508964942454-1a56651d54ac?w=800&q=80',
     ],
     price: 199,
@@ -149,7 +149,7 @@ export const destinations: Destination[] = [
     images: [
       'https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=800&q=80',
       'https://images.unsplash.com/photo-1584810359583-96fc3448beaa?w=800&q=80',
-      'https://images.unsplash.com/photo-1584441405886-bc91be61e56a?w=800&q=80',
+      'https://images.trvl-media.com/localexpert/889803/6e459666-975d-4cb1-afd0-e160ecf38965.jpg?impolicy=resizecrop&rw=1005&rh=565',
     ],
     price: 59,
     currency: 'USD',
@@ -159,9 +159,9 @@ export const destinations: Destination[] = [
     id: 12,
     name: 'Seoul',
     country: 'Korea Selatan',
-    image: 'https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=800&q=80',
+    image: 'https://utwadmin.b-cdn.net/blog-posts/40e7269e-6025-4ae8-8f9a-ea0f75f04960.jpg',
     images: [
-      'https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=800&q=80',
+      'https://utwadmin.b-cdn.net/blog-posts/40e7269e-6025-4ae8-8f9a-ea0f75f04960.jpg',
       'https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=800&q=80',
       'https://images.unsplash.com/photo-1578637387939-43c525550085?w=800&q=80',
     ],
